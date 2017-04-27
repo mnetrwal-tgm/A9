@@ -1,0 +1,4 @@
+This is an example how a file in this Folder should look like.
+
+
+So basically a normal .txt file. Thx for reading.
